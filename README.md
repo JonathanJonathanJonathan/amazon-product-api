@@ -107,6 +107,8 @@ You can add any [available params](http://docs.aws.amazon.com/AWSECommerceServic
 
 - [itemPage:](http://docs.aws.amazon.com/AWSECommerceService/latest/DG/ItemSearch.html) Defaults to '1'.
 
+- [IgnoreItemPage:](http://docs.aws.amazon.com/AWSECommerceService/latest/DG/ItemSearch.html) If set to true removes ItemPage from search query. Defaults to null.
+
 - [sort:](http://docs.aws.amazon.com/AWSECommerceService/latest/DG/SortingbyPopularityPriceorCondition.html) Valid values include 'salesrank','psrank','titlerank','-price','price', etc.
 
 
